@@ -1,0 +1,71 @@
+/* You can add global styles to this file, and also import other style files */
+/* body{
+  background-color: #ac55c2;
+} */
+body {
+  background-image:
+  url("/assets/images/pics of grace/FB_IMG_1625781367447.jpg"),
+  url("/assets/images/pics of grace/FB_IMG_1625781372520.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781378683.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781391530.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781396963.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781404785.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781407940.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781417892.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781423827.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781450392.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781474313.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781478695.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781496221.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781500695.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781534629.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781540209.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781546499.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781558862.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781562744.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781580086.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781623975.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781630609.jpg"),
+  url("src/assets/images/pics of grace/FB_IMG_1625781652366.jpg");
+
+  background-size: 50px;
+  background-position: inline-block;
+
+  background-repeat: repeat;
+  background-color: #cccccc;
+
+}
+.hoverwell:hover {
+  background-color: #bb5198;
+  cursor: pointer;
+}
+
+.container {
+  padding-top: 10px;
+  background-color: #485563;
+}
+
+.pointable {
+  cursor: pointer;
+}
+
+button {
+  color: #555;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.toast-success {
+  background-color: #51a351;
+}
+.toast-error {
+  background-color: #bd362f;
+}
+.toast-info {
+  background-color: #2f96b4;
+}
+.toast-warning {
+  background-color: #f89406;
+}
