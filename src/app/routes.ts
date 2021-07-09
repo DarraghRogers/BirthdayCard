@@ -26,7 +26,7 @@ export const appRoutes: Routes = [
   },
   {
     path: '',
-    redirectTo: '/events',
+    redirectTo: '/events/new',
     pathMatch: 'full'
   }
 

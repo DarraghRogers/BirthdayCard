@@ -3,7 +3,7 @@
   background-color: #ac55c2;
 } */
 body {
-  background-image:
+  /* background-image:
   url("/assets/images/pics of grace/FB_IMG_1625781367447.jpg"),
   url("/assets/images/pics of grace/FB_IMG_1625781372520.jpg"),
   url("src/assets/images/pics of grace/FB_IMG_1625781378683.jpg"),
@@ -32,17 +32,21 @@ body {
   background-position: inline-block;
 
   background-repeat: repeat;
-  background-color: #cccccc;
+  background-color: #cccccc; */
 
 }
 .hoverwell:hover {
-  background-color: #bb5198;
+  background-color: #FB928E;
   cursor: pointer;
 }
 
 .container {
   padding-top: 10px;
-  background-color: #485563;
+  background-color: #FFB8BF;
+}
+
+.container-birthdaycard{
+  background-color: #FB928E;
 }
 
 .pointable {
